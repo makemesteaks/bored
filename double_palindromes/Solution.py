@@ -1,7 +1,7 @@
 #https://leetcode.com/problems/palindrome-pairs/#/description
 #todo: testing
 
-''' My shitty solution '''
+''' My solution '''
 
 class Solution:
     def add_to_dict(self, thelist):
