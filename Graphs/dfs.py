@@ -13,7 +13,7 @@ def dfs(graph, start, path=[]):
 	# LOOP UNTIL WE RUN OUT OF INITIAL POSSIBILITES
     while initial:
 
-	# THIS IS THE VARIABLE TO BE CHECKED AGAINST THE PATH
+	# THIS IS THE VARIABLE WILL BE CHECKED AGAINST THE PATH
         check = initial.pop()
         if check not in path:
 
